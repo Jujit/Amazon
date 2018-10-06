@@ -1,0 +1,43 @@
+[06/10/2018 16:59:30]  Executing the test : verifyWatch
+[06/10/2018 16:59:30]  Executing test case : Navigate to Amazon page
+[06/10/2018 16:59:30]  Navigating to the test site - Amazon ...
+[06/10/2018 16:59:47]  Moving to wrist watch page
+[06/10/2018 16:59:47]  Clicking on : 'Seach' Box
+[06/10/2018 16:59:47]  Waiting for web element to load on the page
+[06/10/2018 16:59:48]  Waiting ends ... Web element loaded on the page
+[06/10/2018 16:59:48]  Clicked on : 'Seach' Box
+[06/10/2018 16:59:48]  Clicked on the element : ''Seach' Box and new page loaded with title : Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+[06/10/2018 16:59:48]  Waiting for web element to load on the page
+[06/10/2018 16:59:48]  Waiting ends ... Web element loaded on the page
+[06/10/2018 16:59:48]  Clearing field : 'Seach' Box
+[06/10/2018 16:59:48]  Waiting for web element to load on the page
+[06/10/2018 16:59:48]  Waiting ends ... Web element loaded on the page
+[06/10/2018 16:59:48]  Cleared : 'Seach' Box
+[06/10/2018 16:59:48]  Sending Values in : 'Seach' Box
+[06/10/2018 16:59:48]  Inputted 'Wrist Watch' text into : ''Seach' Box'
+[06/10/2018 16:59:48]  Clicking on : 'Search' Button
+[06/10/2018 16:59:48]  Waiting for web element to load on the page
+[06/10/2018 16:59:48]  Waiting ends ... Web element loaded on the page
+[06/10/2018 16:59:52]  Clicked on : 'Search' Button
+[06/10/2018 16:59:52]  Clicked on the element : ''Search' Button and new page loaded with title : Amazon.in: Wrist Watch - Men: Watches
+[06/10/2018 16:59:52]  Filtering Criteria
+[06/10/2018 16:59:52]  Clicking on : 'Analog' Button
+[06/10/2018 16:59:52]  Waiting for web element to load on the page
+[06/10/2018 16:59:52]  Waiting ends ... Web element loaded on the page
+[06/10/2018 16:59:55]  Clicked on : 'Analog' Button
+[06/10/2018 16:59:55]  Clicked on the element : ''Analog' Button and new page loaded with title : Amazon.in: Wrist Watch - Analogue / Men: Watches
+[06/10/2018 16:59:55]  Clicking on : 'Band Material' CheckBox
+[06/10/2018 16:59:55]  Waiting for web element to load on the page
+[06/10/2018 16:59:55]  Waiting ends ... Web element loaded on the page
+[06/10/2018 16:59:57]  Clicked on : 'Band Material' CheckBox
+[06/10/2018 16:59:57]  Clicked on the element : ''Band Material' CheckBox and new page loaded with title : Amazon.in: Wrist Watch - Analogue / Men: Watches
+[06/10/2018 17:00:02]  Clicking on : Brand Checkbox
+[06/10/2018 17:00:02]  Waiting for web element to load on the page
+[06/10/2018 17:00:02]  Waiting ends ... Web element loaded on the page
+[06/10/2018 17:00:02]  Clicked on : Brand Checkbox
+[06/10/2018 17:00:02]  Clicked on the element : 'Brand Checkbox and new page loaded with title : Amazon.in: Wrist Watch - Analogue / Ceramic / Men: Watches
+[06/10/2018 17:00:07]  Clicking on: '25' Percent
+[06/10/2018 17:00:07]  Waiting for web element to load on the page
+[06/10/2018 17:00:07]  Waiting ends ... Web element loaded on the page
+[06/10/2018 17:00:10]  Error came : null
+[06/10/2018 17:00:10]  ***********************************verifyWatch --- Pass
